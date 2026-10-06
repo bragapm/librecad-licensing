@@ -1,0 +1,29 @@
+# C++ / CMake build outputs
+build/
+build-*/
+cmake-build-*/
+CMakeUserPresets.json
+CMakeCache.txt
+CMakeFiles/
+
+# Qt / Qt Creator / Qt Design Studio
+.qtcreator/
+.qtc_clangd/
+*.user
+*.user.*
+*.autosave
+*.qmlproject.qtds
+
+# Compiled binaries and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.obj
+*.o
+
+# OS generated
+.DS_Store
+Thumbs.db

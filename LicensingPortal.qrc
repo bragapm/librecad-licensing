@@ -1,0 +1,10 @@
+<RCC>
+    <qresource>
+        <file>LicensingPortal.qmlproject</file>
+        <file>LicensingPortal/Constants.qml</file>
+        <file>LicensingPortal/EventListModel.qml</file>
+        <file>LicensingPortal/EventListSimulator.qml</file>
+        <file>LicensingPortal/qmldir</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
